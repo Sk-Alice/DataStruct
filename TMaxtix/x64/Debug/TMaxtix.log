@@ -1,0 +1,4 @@
+﻿  TMaxtix.cpp
+E:\MyVsCppWordSpace\Program\TMaxtix\TMaxtix.cpp(133,24): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+E:\MyVsCppWordSpace\Program\TMaxtix\TMaxtix.cpp(133,24): warning C4154: deletion of an array expression; conversion to pointer supplied
+  TMaxtix.vcxproj -> E:\MyVsCppWordSpace\Program\TMaxtix\x64\Debug\TMaxtix.exe

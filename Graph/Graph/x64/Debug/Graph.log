@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+E:\MyVsCppWordSpace\Program\Graph\Graph\Graph.cpp(20,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+  Graph.vcxproj -> E:\MyVsCppWordSpace\Program\Graph\x64\Debug\Graph.exe
